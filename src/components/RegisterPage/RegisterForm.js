@@ -46,7 +46,7 @@ function RegisterForm() {
                 <div className="title">Register on our site</div>
 
                 <div className="container">
-                <form onSubmit={handleSubmit}>
+                <form onSubmit={handleSubmit}></form>
                     <div className="input">
                         <div className="text">Organization Name</div>
                         <div className="i">
@@ -99,7 +99,7 @@ function RegisterForm() {
                     </div>
                     <div className="button"><p>Register</p></div>
                     <img src="/assets/logo2.png" className="logo" alt="Logo" />
-                    </form>
+                    
                 </div>
             </div>
         </div>
