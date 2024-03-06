@@ -1,6 +1,6 @@
 
 
-### !!! You should run the command 'npm -i' before doing anything else in order for the site to work
+### !!! You should run the command 'npm i --save' before doing anything else in order for the site to work
 ## Available Scripts
 
 In the project directory, you can run:
